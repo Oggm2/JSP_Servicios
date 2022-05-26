@@ -1,0 +1,1 @@
+org.gerdoc.dao.Marca
